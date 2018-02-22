@@ -1,6 +1,6 @@
 # indecision-app
 
-This is a To Do List website building with React.
+This is a To Do List website building with [`React`](https://reactjs.org).
 
 ## setup
 
